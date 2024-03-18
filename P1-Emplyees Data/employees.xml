@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<employees>
+  <employee>
+    <name>John Doe</name>
+    <phones>
+      <phone type="home">123-456-7890</phone>
+      <phone type="work">987-654-3210</phone>
+      <phone type="mobile">555-555-5555</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>123 Main St</street>
+        <building_number>100</building_number>
+        <region>North</region>
+        <city>Cityville</city>
+        <country>Countryland</country>
+      </address>
+      <address>
+        <street>456 Elm St</street>
+        <building_number>200</building_number>
+        <region>South</region>
+        <city>Townsville</city>
+        <country>Countryland</country>
+      </address>
+    </addresses>
+    <email>john.doe@example.com</email>
+  </employee>
+
+    <employee>
+    <name>John Doe</name>
+    <phones>
+      <phone type="home">123-456-7890</phone>
+      <phone type="work">987-654-3210</phone>
+      <phone type="mobile">555-555-5555</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>123 Main St</street>
+        <building_number>100</building_number>
+        <region>North</region>
+        <city>Cityville</city>
+        <country>Countryland</country>
+      </address>
+      <address>
+        <street>456 Elm St</street>
+        <building_number>200</building_number>
+        <region>South</region>
+        <city>Townsville</city>
+        <country>Countryland</country>
+      </address>
+    </addresses>
+    <email>john.doe@example.com</email>
+  </employee>
+
+    <employee>
+    <name>John Doe</name>
+    <phones>
+      <phone type="home">123-456-7890</phone>
+      <phone type="work">987-654-3210</phone>
+      <phone type="mobile">555-555-5555</phone>
+    </phones>
+    <addresses>
+      <address>
+        <street>123 Main St</street>
+        <building_number>100</building_number>
+        <region>North</region>
+        <city>Cityville</city>
+        <country>Countryland</country>
+      </address>
+      <address>
+        <street>456 Elm St</street>
+        <building_number>200</building_number>
+        <region>South</region>
+        <city>Townsville</city>
+        <country>Countryland</country>
+      </address>
+    </addresses>
+    <email>john.doe@example.com</email>
+  </employee>
+  <!-- Additional employees can be added here -->
+</employees>
